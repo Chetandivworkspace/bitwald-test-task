@@ -1,0 +1,25 @@
+{
+  "transactionsData": [
+    {
+      "id": "1",
+      "from": "h1",
+      "to": "h2",
+      "amount": "25",
+      "status": null
+    },
+    {
+      "id": "2",
+      "from": "h1",
+      "to": "h2",
+      "amount": "400",
+      "status": null
+    },
+    {
+      "id": "3",
+      "from": "h1",
+      "to": "h2",
+      "amount": "55",
+      "status": null
+    }
+  ]
+}
